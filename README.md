@@ -1,1 +1,1 @@
-# find-my-object
+# YOLO core for Find My Object
